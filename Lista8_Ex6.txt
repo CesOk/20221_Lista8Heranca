@@ -1,0 +1,1 @@
+A classe ornintorrinco deve herdar a classe Oviparo, pois apesar de ser mamifero, outros atributos pertencentes a ele se encontram na classe Oviparo
